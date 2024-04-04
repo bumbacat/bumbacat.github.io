@@ -417,7 +417,7 @@ body {
  position:relative
 }
 .homeHeader {
- background-color:#429cb5;
+ background-color:rgba(7, 137, 48, 1);
  height:100%;
  padding-top:150px;
  width:100vw
@@ -440,7 +440,7 @@ body {
  width:300px
 }
 .nav {
- background-color:#429cb5;
+ background-color:rgba(7, 137, 48, 1);
  filter:drop-shadow(-5px 10px 10px #666666);
  left:0;
  position:fixed;
